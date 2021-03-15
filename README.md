@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**jijo125-github/jijo125-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <b><i>Let's connect! Find me on the web.</i></b>
+  
+ [LinkedIn](https://www.linkedin.com/in/johns-jijo-sabu-586858143/ "Linkedin") &nbsp; &nbsp;
+ [HackerRank](https://www.hackerrank.com/jijojohns12_5 "hackerrank") &nbsp; &nbsp;
+ [LeetCode](https://leetcode.com/user9539Vg/ "leetcode")
+
+ <br>
+
+  ### Hi there 👋
+
+- Primary Coding language - Python
+- I am currently learning React.js
+- Competitive programmer
