@@ -13,5 +13,5 @@
   ### Hi there 👋
 
 - Primary Coding language - Python
-- I am currently learning React.js
 - Competitive programmer
+- Love to play music on casio and sing songs
